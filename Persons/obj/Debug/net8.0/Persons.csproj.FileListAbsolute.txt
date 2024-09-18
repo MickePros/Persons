@@ -1,0 +1,15 @@
+F:\Code\Lexicon\NET\Persons\Persons\bin\Debug\net8.0\Persons.exe
+F:\Code\Lexicon\NET\Persons\Persons\bin\Debug\net8.0\Persons.deps.json
+F:\Code\Lexicon\NET\Persons\Persons\bin\Debug\net8.0\Persons.runtimeconfig.json
+F:\Code\Lexicon\NET\Persons\Persons\bin\Debug\net8.0\Persons.dll
+F:\Code\Lexicon\NET\Persons\Persons\bin\Debug\net8.0\Persons.pdb
+F:\Code\Lexicon\NET\Persons\Persons\obj\Debug\net8.0\Persons.GeneratedMSBuildEditorConfig.editorconfig
+F:\Code\Lexicon\NET\Persons\Persons\obj\Debug\net8.0\Persons.AssemblyInfoInputs.cache
+F:\Code\Lexicon\NET\Persons\Persons\obj\Debug\net8.0\Persons.AssemblyInfo.cs
+F:\Code\Lexicon\NET\Persons\Persons\obj\Debug\net8.0\Persons.csproj.CoreCompileInputs.cache
+F:\Code\Lexicon\NET\Persons\Persons\obj\Debug\net8.0\Persons.sourcelink.json
+F:\Code\Lexicon\NET\Persons\Persons\obj\Debug\net8.0\Persons.dll
+F:\Code\Lexicon\NET\Persons\Persons\obj\Debug\net8.0\refint\Persons.dll
+F:\Code\Lexicon\NET\Persons\Persons\obj\Debug\net8.0\Persons.pdb
+F:\Code\Lexicon\NET\Persons\Persons\obj\Debug\net8.0\Persons.genruntimeconfig.cache
+F:\Code\Lexicon\NET\Persons\Persons\obj\Debug\net8.0\ref\Persons.dll
